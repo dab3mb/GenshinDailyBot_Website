@@ -1,0 +1,290 @@
+{
+    "Zhongli": {
+        "Name": "Zhongli",
+        "Element": "Geo",
+        "Weapon": "Polearm",
+        "Region": "Liyue"
+    },
+    "Yun Jin": {
+        "Name": "Yun Jin",
+        "Element": "Geo",
+        "Weapon": "Polearm",
+        "Region": "Liyue"
+    },
+    "Yoimiya": {
+        "Name": "Yoimiya",
+        "Element": "Pyro",
+        "Weapon": "Bow",
+        "Region": "Inazuma"
+    },
+    "Yanfei": {
+        "Name": "Yanfei",
+        "Element": "Pyro",
+        "Weapon": "Catalyst",
+        "Region": "Liyue"
+    },
+    "Yae Miko": {
+        "Name": "Yae Miko",
+        "Element": "Electro",
+        "Weapon": "Catalyst",
+        "Region": "Inazuma"
+    },
+    "Xinyan": {
+        "Name": "Xinyan",
+        "Element": "Pyro",
+        "Weapon": "Claymore",
+        "Region": "Liyue"
+    },
+    "Xingqiu": {
+        "Name": "Xingqiu",
+        "Element": "Hydro",
+        "Weapon": "Sword",
+        "Region": "Liyue"
+    },
+    "Xiao": {
+        "Name": "Xiao",
+        "Element": "Anemo",
+        "Weapon": "Polearm",
+        "Region": "Liyue"
+    },
+    "Xiangling": {
+        "Name": "Xiangling",
+        "Element": "Pyro",
+        "Weapon": "Polearm",
+        "Region": "Liyue"
+    },
+    "Venti": {
+        "Name": "Venti",
+        "Element": "Anemo",
+        "Weapon": "Bow",
+        "Region": "Mondstadt"
+    },
+    "Traveler": {
+        "Name": "Traveler",
+        "Element": "Electro",
+        "Weapon": "Sword",
+        "Region": "Unknown"
+    },
+    "Thoma": {
+        "Name": "Thoma",
+        "Element": "Pyro",
+        "Weapon": "Polearm",
+        "Region": "Inazuma"
+    },
+    "Tartaglia": {
+        "Name": "Tartaglia",
+        "Element": "Hydro",
+        "Weapon": "Bow",
+        "Region": "Snezhnaya"
+    },
+    "Sucrose": {
+        "Name": "Sucrose",
+        "Element": "Anemo",
+        "Weapon": "Catalyst",
+        "Region": "Mondstadt"
+    },
+    "Shenhe": {
+        "Name": "Shenhe",
+        "Element": "Cryo",
+        "Weapon": "Polearm",
+        "Region": "Liyue"
+    },
+    "Sayu": {
+        "Name": "Sayu",
+        "Element": "Anemo",
+        "Weapon": "Claymore",
+        "Region": "Inazuma"
+    },
+    "Sangonomiya Kokomi": {
+        "Name": "Sangonomiya Kokomi",
+        "Element": "Hydro",
+        "Weapon": "Catalyst",
+        "Region": "Inazuma"
+    },
+    "Rosaria": {
+        "Name": "Rosaria",
+        "Element": "Cryo",
+        "Weapon": "Polearm",
+        "Region": "Mondstadt"
+    },
+    "Razor": {
+        "Name": "Razor",
+        "Element": "Electro",
+        "Weapon": "Claymore",
+        "Region": "Mondstadt"
+    },
+    "Raiden Shogun": {
+        "Name": "Raiden Shogun",
+        "Element": "Electro",
+        "Weapon": "Polearm",
+        "Region": "Inazuma"
+    },
+    "Qiqi": {
+        "Name": "Qiqi",
+        "Element": "Cryo",
+        "Weapon": "Sword",
+        "Region": "Liyue"
+    },
+    "Noelle": {
+        "Name": "Noelle",
+        "Element": "Geo",
+        "Weapon": "Claymore",
+        "Region": "Mondstadt"
+    },
+    "Ningguang": {
+        "Name": "Ningguang",
+        "Element": "Geo",
+        "Weapon": "Catalyst",
+        "Region": "Liyue"
+    },
+    "Mona": {
+        "Name": "Mona",
+        "Element": "Hydro",
+        "Weapon": "Catalyst",
+        "Region": "Mondstadt"
+    },
+    "Lisa": {
+        "Name": "Lisa",
+        "Element": "Electro",
+        "Weapon": "Catalyst",
+        "Region": "Mondstadt"
+    },
+    "Kujou Sara": {
+        "Name": "Kujou Sara",
+        "Element": "Electro",
+        "Weapon": "Bow",
+        "Region": "Inazuma"
+    },
+    "Klee": {
+        "Name": "Klee",
+        "Element": "Pyro",
+        "Weapon": "Catalyst",
+        "Region": "Mondstadt"
+    },
+    "Keqing": {
+        "Name": "Keqing",
+        "Element": "Electro",
+        "Weapon": "Sword",
+        "Region": "Liyue"
+    },
+    "Kamisato Ayato": {
+        "Name": "Kamisato Ayato",
+        "Element": "Hydro",
+        "Weapon": "Sword",
+        "Region": "Inazuma"
+    },
+    "Kamisato Ayaka": {
+        "Name": "Kamisato Ayaka",
+        "Element": "Cryo",
+        "Weapon": "Sword",
+        "Region": "Inazuma"
+    },
+    "Kaeya": {
+        "Name": "Kaeya",
+        "Element": "Cryo",
+        "Weapon": "Sword",
+        "Region": "Mondstadt"
+    },
+    "Kaedehara Kazuha": {
+        "Name": "Kaedehara Kazuha",
+        "Element": "Anemo",
+        "Weapon": "Sword",
+        "Region": "Inazuma"
+    },
+    "Jean": {
+        "Name": "Jean",
+        "Element": "Anemo",
+        "Weapon": "Sword",
+        "Region": "Mondstadt"
+    },
+    "Hu Tao": {
+        "Name": "Hu Tao",
+        "Element": "Pyro",
+        "Weapon": "Polearm",
+        "Region": "Liyue"
+    },
+    "Gorou": {
+        "Name": "Gorou",
+        "Element": "Geo",
+        "Weapon": "Bow",
+        "Region": "Inazuma"
+    },
+    "Ganyu": {
+        "Name": "Ganyu",
+        "Element": "Cryo",
+        "Weapon": "Bow",
+        "Region": "Liyue"
+    },
+    "Fischl": {
+        "Name": "Fischl",
+        "Element": "Electro",
+        "Weapon": "Bow",
+        "Region": "Mondstadt"
+    },
+    "Eula": {
+        "Name": "Eula",
+        "Element": "Cryo",
+        "Weapon": "Claymore",
+        "Region": "Mondstadt"
+    },
+    "Diona": {
+        "Name": "Diona",
+        "Element": "Cryo",
+        "Weapon": "Bow",
+        "Region": "Mondstadt"
+    },
+    "Diluc": {
+        "Name": "Diluc",
+        "Element": "Pyro",
+        "Weapon": "Claymore",
+        "Region": "Mondstadt"
+    },
+    "Chongyun": {
+        "Name": "Chongyun",
+        "Element": "Cryo",
+        "Weapon": "Claymore",
+        "Region": "Liyue"
+    },
+    "Bennett": {
+        "Name": "Bennett",
+        "Element": "Pyro",
+        "Weapon": "Sword",
+        "Region": "Mondstadt"
+    },
+    "Beidou": {
+        "Name": "Beidou",
+        "Element": "Electro",
+        "Weapon": "Claymore",
+        "Region": "Liyue"
+    },
+    "Barbara": {
+        "Name": "Barbara",
+        "Element": "Hydro",
+        "Weapon": "Catalyst",
+        "Region": "Mondstadt"
+    },
+    "Arataki Itto": {
+        "Name": "Arataki Itto",
+        "Element": "Geo",
+        "Weapon": "Claymore",
+        "Region": "Inazuma"
+    },
+    "Amber": {
+        "Name": "Amber",
+        "Element": "Pyro",
+        "Weapon": "Bow",
+        "Region": "Mondstadt"
+    },
+    "Aloy": {
+        "Name": "Aloy",
+        "Element": "Cryo",
+        "Weapon": "Bow",
+        "Region": "Unknown"
+    },
+    "Albedo": {
+        "Name": "Albedo",
+        "Element": "Geo",
+        "Weapon": "Sword",
+        "Region": "Mondstadt"
+    }
+}
