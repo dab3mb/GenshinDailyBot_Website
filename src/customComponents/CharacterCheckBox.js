@@ -20,7 +20,7 @@ export default function CharacterCheckBox(props) {
       }}
     >
       <img src={image} alt={name} width={'100%'}/>
-      <p style={{margin: '0px', overflowWrap: 'breakWord', height:'100%'}}> {name.replace("_"," ")} </p>
+      <p style={{margin: '0 0 0 0 ', overflowWrap: 'breakWord', height:'100%', textAlign: 'center'}}> {name.replace("_"," ")} </p>
       <input id={name} type="checkbox" name="checkbox" value="value"/>
     </label>    
   );

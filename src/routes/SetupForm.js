@@ -50,19 +50,19 @@ export default function SetupForm() {
   const [characterSortValue, setCharacterSortValue] = React.useState(characterSortables[0])
   const [charactersBySort, setCharactersBySort] = React.useState(null)  
   React.useEffect(() => {  
+    // Create temp object
     var newObj = {}
     sortModeUniqueValues[characterSortValue].forEach((val) =>{
       newObj[val] = []
     })
+    // Sort characters by characterSortValue
     characterList.forEach((char) => {
       newObj[char[characterSortValue]].push(char)
     })
-    // Object.keys(newObj).forEach(sortable => {
-      
-    // })
-
-
-
+    // Sort by Name alphabetically
+    Object.keys(newObj).forEach(key =>{
+      newObj[key].sort((a, b) => (a.Name > b.Name) ? 1 : -1)
+    })
     console.log("Sorted by: ", characterSortValue)
     console.log(newObj)
     setCharactersBySort(newObj)
